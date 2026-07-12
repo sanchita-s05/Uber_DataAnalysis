@@ -1,24 +1,24 @@
-# 🚖 Uber Power BI Dashboard – Business Analytics Project
+#  Uber Power BI Dashboard – Business Analytics Project
 
 An end-to-end **Power BI analytics dashboard** designed to analyze Uber ride data and deliver actionable insights across **bookings, revenue, vehicles, customers, and locations**.  
 This project focuses on **business-driven analytics**, data modeling, DAX calculations, and professional dashboard design.
 
 ---
 
-## 🚀 Live Dashboard  
+##  Live Dashboard  
 [Click here to view the Power BI report](https://app.fabric.microsoft.com/view?r=eyJrIjoiMWM3NDhiOWItNWZhNi00ODc2LTg1MjQtYmM2Y2Y5ODM1MTJkIiwidCI6ImY5YTQzODQwLWY3OGUtNDE3Yy05ZDgwLTg5NTJhMmJhN2Y0YiJ9)
 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Uber operates at a large scale with thousands of daily rides. Managing such operations requires transforming raw ride data into **meaningful insights** that support decision-making.  
 This project addresses key business questions related to **performance monitoring, revenue optimization, customer behavior, and operational efficiency** using Microsoft Power BI.
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Monitor overall ride and revenue performance
 - Identify revenue drivers and loss areas
@@ -29,7 +29,7 @@ This project addresses key business questions related to **performance monitorin
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 The dataset represents **ride-level transactional data** and includes:
 
@@ -45,7 +45,7 @@ Data is analyzed on **monthly and quarterly** levels to identify trends and patt
 
 ---
 
-## 🧱 Dashboard Architecture
+##  Dashboard Architecture
 
 The dashboard is structured into **five analytical pages**, each serving a specific business requirement:
 
@@ -59,11 +59,11 @@ Interactive navigation buttons and filters allow seamless movement between pages
 
 ---
 
-## 📊 Page-wise Business Explanation
+## Page-wise Business Explanation
 
 ---
 
-### 1️⃣ Home / Landing Page
+### 1️ Home / Landing Page
 
 **Purpose**
 - Introduces the Uber analytics dashboard
@@ -83,7 +83,7 @@ Interactive navigation buttons and filters allow seamless movement between pages
 
 ---
 
-### 2️⃣ Overview Page
+### 2️ Overview Page
 
 **Business Requirement**
 Provide a high-level snapshot of Uber’s operational and financial performance.
@@ -111,7 +111,7 @@ Provide a high-level snapshot of Uber’s operational and financial performance.
 
 ---
 
-### 3️⃣ Vehicle Page
+### 3️ Vehicle Page
 
 **Business Requirement**
 Analyze performance at the vehicle level to optimize fleet usage.
@@ -136,7 +136,7 @@ Analyze performance at the vehicle level to optimize fleet usage.
 <img src="Vehicle.png" alt="Vehicle" width="1000"/>
 
 ---
-### 4️⃣ Revenue Page
+### 4️ Revenue Page
 
 **Business Requirement**
 Provide detailed financial insights and identify revenue risks.
@@ -163,7 +163,7 @@ Provide detailed financial insights and identify revenue risks.
 
 ---
 
-### 5️⃣ Customer Page
+### 5️ Customer Page
 
 **Business Requirement**
 Understand customer behavior, loyalty, and cancellation impact.
@@ -195,7 +195,7 @@ Understand customer behavior, loyalty, and cancellation impact.
 
 ---
 
-### 6️⃣ Location Page
+### 6️ Location Page
 
 **Business Requirement**
 Analyze geographic and time-based demand patterns.
@@ -217,7 +217,7 @@ Analyze geographic and time-based demand patterns.
 ---
 
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Microsoft Power BI**
 - **Microsoft Fabric / Power BI Service**
@@ -228,7 +228,7 @@ Analyze geographic and time-based demand patterns.
 
 
 
-## 📈 Business Impact
+##  Business Impact
 
 This dashboard enables Uber stakeholders to:
 
@@ -241,7 +241,7 @@ This dashboard enables Uber stakeholders to:
 
 ---
 
-## 📚 Key Learnings
+##  Key Learnings
 
 - End-to-end Power BI dashboard development
 - Translating business requirements into analytics
@@ -251,7 +251,7 @@ This dashboard enables Uber stakeholders to:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Real-time data integration
 - Predictive demand forecasting
@@ -260,17 +260,3 @@ This dashboard enables Uber stakeholders to:
 - Advanced AI-based insights
 
 ---
-
-## 👤 Author
-
-**Pralhad Balaji Jadhav**  
-Aspiring Data Analyst | Power BI | Data Analytics  
-
-📌 GitHub Repository:  
-https://github.com/parlhad/Uber_Power-BI_Project
-
----
-
-## 📎 Note
-
-This project is created for **learning, portfolio, and demonstration purposes** using a sample dataset OF 1,50,000 rows and more than 10 Features
